@@ -30,11 +30,15 @@ Play as a gladiator, escaping from a **ferocious tiger** chasing you through 3-l
 
 ## 📸 Screenshots
 
-![Gameplay Screenshot](Assets/Screenshots/ss1.jpg)
-![Gameplay Screenshot 2](Assets/Screenshots/ss2.jpg)
-![Gameplay Screenshot 2](Assets/Screenshots/ss3.jpg)
-![Gameplay Screenshot 2](Assets/Screenshots/ss4.jpg)
-![Gameplay Screenshot 2](Assets/Screenshots/ss5.jpg)
+## 📸 Screenshots
+
+<p float="left">
+  <img src="Assets/Screenshots/ss1.jpg" width="150" />
+  <img src="Assets/Screenshots/ss2.jpg" width="150" />
+  <img src="Assets/Screenshots/ss3.jpg" width="150" />
+  <img src="Assets/Screenshots/ss4.jpg" width="150" />
+  <img src="Assets/Screenshots/ss5.jpg" width="150" />
+</p>
 
 ---
 
